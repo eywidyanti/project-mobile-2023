@@ -16,6 +16,7 @@ class _KoleksiPageState extends State<KoleksiPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
+        color: const Color.fromARGB(255, 227, 241, 210),
         padding: const EdgeInsets.all(30),
         child: GridView.count(crossAxisCount: 2, children: [
           MyMenu(
