@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "188167916733",
+    "project_id": "jahitan-ce410",
+    "storage_bucket": "jahitan-ce410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188167916733:android:025223ecbed8db9e477bd4",
+        "android_client_info": {
+          "package_name": "com.example.catatanmenjahit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188167916733-m1abhednh1f05ttngrg6adnj886391rb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.catatanmenjahit",
+            "certificate_hash": "c62277a2217baf6a0dec28b5de935a1636133308"
+          }
+        },
+        {
+          "client_id": "188167916733-rp4q6ptc4ommdpka66jj11allovkg4lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNoF4oajVRakaZ7smPcn4db3A_VvzFH1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188167916733-rp4q6ptc4ommdpka66jj11allovkg4lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
