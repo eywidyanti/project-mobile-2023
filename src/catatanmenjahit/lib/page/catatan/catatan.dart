@@ -152,7 +152,7 @@ class _CatatanPageState extends State<CatatanPage> {
         setState(() {
           this.itemList = itemList;
           count = itemList.length;
-          performSearch(searchController.text); // Update search results
+          performSearch(searchController.text);
         });
       });
     });

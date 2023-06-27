@@ -43,7 +43,6 @@ class _RegisterPageState extends State<RegisterPage> {
             actions: [
               TextButton(
                 onPressed: () {
-                  Navigator.pop(context);
                   Navigator.push(
                     context,
                     MaterialPageRoute(
