@@ -38,6 +38,7 @@ Aplikasi pencatatan menjahit adalah sebuah aplikasi yang dirancang untuk membant
 1. Login
 
 ![login](src/catatanmenjahit/assets/img/login.jpeg)
+![login](src/catatanmenjahit/assets/img/akun.jpeg)
 
 Penjelasan:
 
@@ -50,6 +51,8 @@ Penjelasan:
 2. Register
 
 ![login](src/catatanmenjahit/assets/img/register.jpeg)
+![login](src/catatanmenjahit/assets/img/registereror.jpeg)
+![login](src/catatanmenjahit/assets/img/ok.jpeg)
 
 Penjelasan:
 - Layout Menggunakan StatefulWidget.
@@ -68,9 +71,7 @@ Penjelasan:
 4. Koleksi Pakaian Wanita/ Pria/ Anak
 
 ![login](src/catatanmenjahit/assets/img/koleksiw.jpeg)
-
 ![login](src/catatanmenjahit/assets/img/koleksip.jpeg)
-
 ![login](src/catatanmenjahit/assets/img/koleksia.jpeg)
 
 Penjelasan:
@@ -81,9 +82,7 @@ Penjelasan:
 5. Detail Pakaian Wanita/ Pria/ Anak
 
 ![login](src/catatanmenjahit/assets/img/detailbp.jpeg)
-
 ![login](src/catatanmenjahit/assets/img/detailbpp.jpeg)
-
 ![login](src/catatanmenjahit/assets/img/detailba.jpeg)
 
 Penjelasan:
@@ -146,4 +145,3 @@ Penjelasan:
 - Menampilkan data dari firebase login menggunakan akun google.
 - Terdapat animasi pada tombol sign out
 - Terdapat navigasi ke halaman login pada tombol sign out
-- Terdapat state untuk sign out
