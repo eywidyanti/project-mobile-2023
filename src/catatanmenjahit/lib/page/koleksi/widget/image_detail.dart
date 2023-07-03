@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class ImageDetailPage extends StatelessWidget {
   final String imageUrl;
 
-  const ImageDetailPage({super.key, required this.imageUrl});
+  const ImageDetailPage({Key? key, required this.imageUrl}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -15,7 +15,7 @@ class ImageDetailPage extends StatelessWidget {
         child: Center(
           child: Hero(
             tag: imageUrl,
-            child: Image.asset(
+            child: Image.network(
               imageUrl,
               fit: BoxFit.cover,
             ),

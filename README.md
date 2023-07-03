@@ -70,9 +70,9 @@ Penjelasan:
 
 4. Koleksi Pakaian Wanita/ Pria/ Anak
 
-![login](src/catatanmenjahit/assets/img/koleksiw.jpeg)
-![login](src/catatanmenjahit/assets/img/koleksip.jpeg)
-![login](src/catatanmenjahit/assets/img/koleksia.jpeg)
+![login](src/catatanmenjahit/assets/img/koleksiw.png)
+![login](src/catatanmenjahit/assets/img/koleksip.png)
+![login](src/catatanmenjahit/assets/img/koleksia.png)
 
 Penjelasan:
 - Layout menggunakan StatelessWidget
@@ -81,9 +81,9 @@ Penjelasan:
 
 5. Detail Pakaian Wanita/ Pria/ Anak
 
-![login](src/catatanmenjahit/assets/img/detailbp.jpeg)
-![login](src/catatanmenjahit/assets/img/detailbpp.jpeg)
-![login](src/catatanmenjahit/assets/img/detailba.jpeg)
+![login](src/catatanmenjahit/assets/img/detailw.png)
+![login](src/catatanmenjahit/assets/img/detailp.png)
+![login](src/catatanmenjahit/assets/img/detaila.png)
 
 Penjelasan:
 - Layout menggunakan StatelessWidget

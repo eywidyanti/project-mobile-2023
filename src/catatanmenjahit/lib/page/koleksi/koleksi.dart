@@ -27,7 +27,7 @@ class _KoleksiPageState extends State<KoleksiPage> {
               Navigator.push(
                 context,
                 MaterialPageRoute(
-                  builder: (context) => FemalePage(),
+                  builder: (context) => FamalePage(),
                 ),
               );
             },
