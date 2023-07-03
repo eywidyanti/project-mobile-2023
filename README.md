@@ -77,6 +77,7 @@ Penjelasan:
 Penjelasan:
 - Layout menggunakan StatelessWidget
 - Menggunakan list untuk menampilkan gambar
+- Menggunakan gambar url untuk semua koleksi
 - Menggunakan navigasi push untuk menampilkan gambar
 
 5. Detail Pakaian Wanita/ Pria/ Anak
